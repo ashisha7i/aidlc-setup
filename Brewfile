@@ -1,9 +1,12 @@
+brew tap "ashisha7i/tap"
 brew "awscli"
 brew "git"
 brew "python@3.14"
 brew "uv"
 brew "maven"
+brew "aidlc-setup"
 cask "visual-studio-code"
 vscode "saoudrizwan.claude-dev"
 vscode "redhat.vscode-xml"
 vscode "vscjava.vscode-maven"
+
