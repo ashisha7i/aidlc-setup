@@ -1,5 +1,4 @@
 brew "awscli"
-brew "azure-cli"
 brew "git"
 brew "python@3.14"
 brew "uv"
