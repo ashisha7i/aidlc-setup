@@ -1,4 +1,4 @@
-brew tap "ashisha7i/tap"
+tap "ashisha7i/tap"
 brew "awscli"
 brew "git"
 brew "python@3.14"
